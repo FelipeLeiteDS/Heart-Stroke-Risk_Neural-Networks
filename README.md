@@ -11,7 +11,7 @@ This repository is used to train and compare the applications and outputs of Neu
 7. [Results](#results)
 8. [Limitations and Future Work](#limitations-and-future-work)
 9. [How to Run using bash](#how-to-run-using-bash)
-10. [Contact](#contact)
+10. [Portfolio and Contact](#portfolio-and-contact)
 
 ## Project Overview
 This project employs a neural network model to predict the risk of heart stroke based on various health indicators. It aims to provide valuable insights for early diagnosis and risk management. The model achieves an accuracy of 82% and uses factors such as age, blood pressure, cholesterol levels, heart rate, and blood flow to make predictions.
@@ -88,9 +88,11 @@ Run the script:
 python Heart-Stroke-Risk_Neural-Network.py
 ```
 
-## Contact
-For questions or collaboration opportunities, feel free to reach out:  
-Name: Felipe Leite  
-Email: felipe.nog.leite@gmail.com  
-LinkedIn: [Felipe Leite](https://www.linkedin.com/in/felipeleiteds/)  
-Portfolio: [FelipeLeite.ca](https://www.felipeleite.ca/)  
+## Portfolio and Contact
+- Explore my work and connect with me:
+
+<div> 
+  <a href = "https://linktr.ee/FelipeLeiteDS"><img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/felipeleiteds/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
+  <a href = "https://www.felipeleite.ca"><img src="https://img.shields.io/badge/FelipeLeite.ca-%23000000.svg?logo=wix&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipe.nog.leite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
